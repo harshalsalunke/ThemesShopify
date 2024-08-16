@@ -41,3 +41,5 @@ Technologies Used
 -Maven - Dependency management and build tool
 -Page Object Model (POM) - Design pattern for structuring tests
                    
+Contact
+If you have any questions or feedback, feel free to contact me at harshalsalunke1996@gmail.com
